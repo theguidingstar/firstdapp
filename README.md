@@ -14,7 +14,8 @@ App.js -> Starting point of the React Application.
 
 This Application connects to meta mask wallet and perform the transactions.
 
-Steps to run the project: 
+## Steps to run the project: 
+
 
 1. `npm install`
 2. `npm start`
@@ -35,9 +36,13 @@ Steps to run the project:
 
 Reference links: 
 [Metamask](https://metamask.io/)
+
 [Remix IDE](https://remix.ethereum.org/)
+
 [Ropeston](https://ropsten.etherscan.io/)
+
 [Ropeston Facet](https://faucet.dimensions.network/)
+
 
 Contact in case of doubts and contribution: 
 [Email](mailto:yashshh123@gmail.com)
