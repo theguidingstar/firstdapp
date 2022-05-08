@@ -4,6 +4,7 @@ This Application used React, Tailwind for the UI.
 Ether.js to interact with Metamask and smart contract connection/transations.
 
 Folder Structure
+
 /contract -> contains the Sample contract to deployed.
 
 /src -> React Application code.
